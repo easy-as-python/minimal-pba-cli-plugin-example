@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 requires-python = ">=3.9"
 name = "minimal-pba-cli-plugin-example"
-version = "0.0.1"
+version = "0.0.2"
 description = "A minimal command-line interface plugin for minimal-pba-cli"
 authors = [
     { name = "Dane Hillard", email = "github@danehillard.com" }
